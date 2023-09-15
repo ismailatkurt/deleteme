@@ -1,0 +1,10 @@
+mode: set
+example.com/hello-fresh/main.go:8.13,16.2 3 0
+example.com/hello-fresh/main.go:18.41,22.25 2 1
+example.com/hello-fresh/main.go:22.25,24.19 2 1
+example.com/hello-fresh/main.go:24.19,26.4 1 1
+example.com/hello-fresh/main.go:29.2,29.12 1 1
+example.com/hello-fresh/main.go:32.40,35.25 3 1
+example.com/hello-fresh/main.go:35.25,37.16 2 1
+example.com/hello-fresh/main.go:37.16,39.4 1 1
+example.com/hello-fresh/main.go:42.2,42.12 1 1
